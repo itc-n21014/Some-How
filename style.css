@@ -1,0 +1,6 @@
+@charset "utf-8" ;
+.midashi{
+    font-size: 50px;
+    font-weight: bold;
+  -webkit-text-stroke: 1.5px black; /* webkitのベンダープレフィックス */    
+}
